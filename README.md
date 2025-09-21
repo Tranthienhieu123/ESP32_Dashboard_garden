@@ -1,3 +1,5 @@
+
+
 <div align="center">
   <h1>🌱 Hệ Thống Giám Sát & Điều Khiển Vườn Thông Minh - ESP32 🌤️</h1>
   <p>✨ Dự án tích hợp cảm biến và điều khiển tự động hệ thống nông nghiệp nhỏ với <strong>ESP32</strong> và <strong>Dashboard + App điện thoại</strong>.</p>
@@ -9,17 +11,20 @@
     <img src="https://img.shields.io/badge/Giám sát-App%20điện%20thoại%20+%20Web-orange?style=for-the-badge&logo=firebase&logoColor=white" alt="App Badge">
   </p>
 
----
+  <p>
+    👉 <a href="http://127.0.0.1:5500/index.html" target="_blank">Mở Dashboard tại đây</a>
+  </p>
 
+  ---
   <p>
     <a href="#🚀-tổng-quan">Tổng quan</a> •
     <a href="#🛠️-hướng-dẫn-sử-dụng">Hướng dẫn sử dụng</a> •
     <a href="#⚙️-chi-tiết-chức-năng">Chi tiết chức năng</a> •
     <a href="#🚩-sản-phẩm-thực-tế">Sản phẩm thực tế</a>
   </p>
-
----
+  ---
 </div>
+
 
 <br>
 
