@@ -4,12 +4,14 @@
 #include <DHT.h>
 
 // WiFi Credentials
-#define WIFI_SSID "..................."
-#define WIFI_PASSWORD "..................."
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
 // Firebase
-#define FIREBASE_HOST "...................."
-#define FIREBASE_AUTH "..................."
+#define FIREBASE_HOST "iot-default-rtdb.firebaseio.com"
+#define FIREBASE_AUTH "SywyboTmH86Y1LWtSQAx5aje78WW1tOS2QL"
+
+
 
 // DHT11
 #define DHTPIN 4

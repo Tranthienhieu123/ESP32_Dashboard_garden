@@ -46,7 +46,7 @@ Dự án này mô phỏng **hệ thống giám sát và điều khiển môi tr�
 1. Tải dự án:
    
 ```bash
-git clone https://github.com/LucPac/ESP32_Dashboard_garden.git
+git clone https://github.com/Tranthienhieu123/ESP32_Dashboard_garden.git
 ```
    
 2. Mở thư mục bằng Arduino IDE hoặc PlatformIO và cấu hình:
@@ -78,36 +78,3 @@ git clone https://github.com/LucPac/ESP32_Dashboard_garden.git
 
 <br>
 
-## 🚩 Sản phẩm thực tế  
-
-PCB Layout
-
-![image](https://github.com/user-attachments/assets/d5d86b0d-4d34-4ffb-9508-a59af557e320)
-
-![image](https://github.com/user-attachments/assets/19747b0d-8c98-4550-b9a2-ca5be101650c)
-
-Hình ảnh Dashboard
-
-![Screenshot (88)](https://github.com/user-attachments/assets/69fb3322-0883-4147-86d6-2e13d60fea53)
-
-Hình ảnh App
-
-![Screenshot_2025 06 16_21 40 53 810](https://github.com/user-attachments/assets/4e3e2b38-30c4-4426-9b80-3b8a2767c010)
-
-Hình ảnh mạch thực tế
-
-![image](https://github.com/user-attachments/assets/f16a79a2-6e48-48a7-94b4-9fe21af7fad4)
-
-
-Video Demo
-
-[![image](https://github.com/user-attachments/assets/a3b1c62b-9412-4591-9d95-9bcef3d3614c)](https://www.youtube.com/watch?v=0sz0hhzup2c)
-
-<br>
-
----
-
-<div align="center">
-  <br>
-  <p>Cảm ơn bạn đã ghé thăm! Hy vọng repo này hữu ích cho việc học tập và nghiên cứu của bạn. 😊</p>
-  </div>

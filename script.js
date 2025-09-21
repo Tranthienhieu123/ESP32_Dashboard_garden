@@ -1,6 +1,12 @@
 // Firebase configuration and initialization
 const firebaseConfig = {
-
+  apiKey: "AIzaSyBlAqtPMbGJA1s9dGvKx6qEB4GCZHeoIh0",
+  authDomain: "iot-tran-thien-hieu.firebaseapp.com",
+  projectId: "iot-tran-thien-hieu",
+  storageBucket: "iot-tran-thien-hieu.firebasestorage.app",
+  messagingSenderId: "776135805883",
+  appId: "1:776135805883:web:e47c2ebd9763f82311129e",
+  measurementId: "G-R9R9DJM2RW"
 };
 firebase.initializeApp(firebaseConfig);
 firebase.analytics();
